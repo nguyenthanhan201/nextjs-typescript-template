@@ -1,5 +1,5 @@
 {
-  "ignorePatterns": ["postcss.config.js"],
+  "ignorePatterns": [],
   "settings": {
     "react": {
       "version": "detect"
