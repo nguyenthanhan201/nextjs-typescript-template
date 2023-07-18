@@ -2,6 +2,7 @@ import Link from "next/link";
 import { memo } from "react";
 
 const DefaultFooter = () => {
+  const a =1;
   return (
     <footer className='footer'>
       <div className='container'>
